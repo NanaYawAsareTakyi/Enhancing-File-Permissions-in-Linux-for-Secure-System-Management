@@ -18,7 +18,8 @@ Understanding of aligning file permissions with organizational security policies
 Applied troubleshooting skills to resolve permissions-related issues and ensure system integrity.
 
 ## Tools used
-#### Linux terminal
+<img src="https://img.shields.io/badge/-Linux%20Terminal-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+
 
 ## Workflow
 #### Check file and directory details
